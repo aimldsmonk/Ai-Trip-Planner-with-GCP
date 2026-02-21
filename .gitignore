@@ -17,3 +17,8 @@ logs/
 
 .vscode/
 *.egg-info
+
+AI_TRAVEL_PLANNER_AGENT.egg-info/
+tenv/
+
+__pycache__/
