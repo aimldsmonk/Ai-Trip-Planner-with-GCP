@@ -1,9 +1,0 @@
-2026-02-21 18:24:29,129 - INFO - CONGIG INITIALIZED
-2026-02-21 18:24:29,137 - INFO - TAVILY TOOL ALL SET
-2026-02-21 18:24:29,208 - INFO - SERPER TOOL ALL SET
-2026-02-21 18:24:33,251 - INFO - AGENT CREATED
-2026-02-21 18:25:59,541 - INFO - TravelPlanner initialized
-2026-02-21 18:26:00,078 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2026-02-21 18:26:00,418 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2026-02-21 18:26:03,718 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-2026-02-21 18:26:03,731 - INFO - RESPONSE GENERATED
