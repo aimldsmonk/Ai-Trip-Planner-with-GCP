@@ -10,3 +10,10 @@ wheels/
 .venv
 travenv
 .env
+
+*.log
+logs/
+
+
+.vscode/
+*.egg-info
